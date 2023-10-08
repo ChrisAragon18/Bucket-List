@@ -6,7 +6,7 @@ const activities = [
         name: 'Scuba Diving',
         href: '#',
         distance: '+10 mins',
-        imageSrc: "src\assets\scuba_diving.jpg",
+        imageSrc: "src/assets/scuba_diving.jpg",
         imageAlt: 'Two women scuba diving.',
     },
     {
@@ -14,7 +14,7 @@ const activities = [
         name: 'Horseback Riding',
         href: '#',
         distance: '+10 mins',
-        imageSrc: "src\assets\horseback_riding.jpg",
+        imageSrc: "src/assets/horseback_riding.jpg",
         imageAlt: 'A man and a woman horseback riding.',
     },
     {
